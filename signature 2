@@ -1,0 +1,95 @@
+<body>
+  <table
+    style="
+      max-width: 402px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      border-collapse: collapse;
+    "
+  >
+    <tr>
+      <td style="max-width: 134px">
+        <img
+          src="http://cms.frankiebs.com/wp-content/uploads/2024/02/FB-Group.png"
+          alt=""
+          width="134"
+          style="width: 134px; height: auto"
+        />
+      </td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td style="max-width: 134px">
+        <a href="https://frankiebs.com">
+          <img
+            src="http://cms.frankiebs.com/wp-content/uploads/2024/02/FrankieBs.png"
+            alt=""
+            width="134"
+            style="width: 134px; height: auto"
+          />
+        </a>
+      </td>
+      <td style="max-width: 269px" colspan="2">
+        <img
+          src="http://cms.frankiebs.com/wp-content/uploads/2024/02/Frank.png"
+          alt=""
+          width="268"
+          style="width: 268px; height: auto"
+        />
+      </td>
+    </tr>
+
+    <tr style="background-color: black">
+      <td>
+       
+          <p
+            style="
+              font-size: 8pt;
+              color: aliceblue;
+              font-weight: 500;
+              margin: 0px;
+            "
+          >
+            <span>&nbsp;</span>
+            <img src="http://cms.frankiebs.com/wp-content/uploads/2024/02/web.png" alt="" width="15" height="19" />
+            <span>&nbsp;</span>
+            frankiebs.com
+          </p>
+    
+      </td>
+      <td>
+   
+          <p
+            style="
+              font-size: 8pt;
+              color: aliceblue;
+              font-weight: 500;
+              margin: 0px;
+            "
+          >
+            <img src="http://cms.frankiebs.com/wp-content/uploads/2024/02/mail.png" alt="" width="15" height="19" />
+            <span>&nbsp;</span>
+            frankiebs.com
+          </p>
+       
+      </td>
+      <td>
+   
+          <p
+            style="
+              font-size: 8pt;
+              color: aliceblue;
+              font-weight: 500;
+              margin: 0px;
+            "
+          >
+            <img src="http://cms.frankiebs.com/wp-content/uploads/2024/02/tell.png" alt="" width="15" height="19" />
+            <span>&nbsp;</span>
+
+            frankiebs.com
+          </p>
+        
+      </td>
+    </tr>
+  </table>
+</body>
